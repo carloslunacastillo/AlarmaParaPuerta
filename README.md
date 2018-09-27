@@ -41,7 +41,7 @@ Material utilizado:
 
 ***
 ## circuito 
-![circuito](/Diagrama.png)
+![circuito](Diagrama.png)
 ***
 ## codigo 
 ~~~
